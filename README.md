@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Will-etch(wilkisson pereira
-- 👀 I’m interested in programação e video games
+- 👀 I’m interested in programação e programação de video games
 - 🌱 I’m currently learning tecnico de informática ,ja aprende um pouco de c# e SQL
 - 💞️ I’m looking to collaborate on com uma pessoa que deseje um programa para seus negocios ou sua empresa
 - 📫 How to reach me mandar mensagem no meu e-mail:wilkissonpereira6@gmail.com
